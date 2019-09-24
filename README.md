@@ -28,21 +28,15 @@ Fennec Fox is a streaming platform which allows to communicate via voice or vide
 
 ### Frontend
 
-- React JS for client side
-<br>
-We use React because its well spread technology and we have some minor experience in it.
+- React JS for client side. We use React because its well spread technology and we have some minor experience in it.
 - Local storage for saving temporary data.
 - Using WebRTC for peer to peer connection.
 
 ### Backend
 
-- Fastify for server side
-<br>
-We use fastify becuase it is fast and low overhead web framework, for Node.js
+- Fastify for server side. We use fastify becuase it is fast and low overhead web framework, for Node.js
 - Using web-socket to connect client to server.
 
 ### Database
 
-- DBMS MongoDB
-<br>
-We use mongo because we have document oriented data.
+- DBMS MongoDB. We use mongo because we have document oriented data.
