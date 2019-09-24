@@ -3,7 +3,7 @@
 
 ## What is Fennec Fox?
 
-Alter is a streaming platform which allows to communicate via voice or video with your friends or find new ones.
+Fennec Fox is a streaming platform which allows to communicate via voice or video with your friends or find new ones.
 
 -------------------------------------------------
 ## Minimum plan
