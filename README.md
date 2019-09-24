@@ -19,6 +19,10 @@ Fennec Fox is a streaming platform which allows to communicate via voice or vide
 - Create group calls.
 
 - On desire of user, the call can be recorded and than downloaded from the server.
+
+- Module with video/audio processing.
+
+- Text chat between users.
 -------------------------------------------------
 ## Technologies
 
